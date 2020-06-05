@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.giphy {
+  max-width: 200px;
+  border: 1px solid tomato;
+  padding: 10px;
+  margin: 5px;
+}
