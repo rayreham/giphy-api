@@ -12,7 +12,6 @@ export default class App extends Component {
 
   componentDidMount() {
     this.performSearch();
-    
   }
 
   //take in word and queries it in api
